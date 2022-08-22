@@ -11,11 +11,11 @@
           <div class="container">
               <div class="text-center">
                   <h2>Our Services</h2>
-                  <h6><span><img class="img-fluid" style="margin-top:-5% ;" src="frontend/assets/img/“.png"
+                  <h6><span><img class="img-fluid" style="margin-top:-5% ;" src="frontend/assets/img/c.png"
                               alt=""></span>How we make your <br>
                       business to have a <br>
                       Digital Transformation<span><img class="img-fluid ps-1" style="margin-top:-3% ;"
-                              src="frontend/assets/img/”.png" alt=""></span></h6>
+                              src="frontend/assets/img/d.png" alt=""></span></h6>
               </div>
               <div class="services_card">
                   <p>We provide you all the tools and facilites to start or to grow your money transfer busniess. If
@@ -110,9 +110,9 @@
           <div class="container">
               <div class="text-center">
                   <h6 class="support_title"><span><img class="img-fluid" style="margin-top:-3.5% ;"
-                              src="frontend/assets/img/“ (1).png" alt=""></span> How we gonna pay you <br> and give
+                              src="frontend/assets/img/a.png" alt=""></span> How we gonna pay you <br> and give
                       you <br> Support for that <span><img class="img-fluid" style="margin-top:-1.5% ;"
-                              src="frontend/assets/img/” (1).png" alt=""></span></h6>
+                              src="frontend/assets/img/b.png" alt=""></span></h6>
               </div>
               <div class="services_card" style="background:#C4EBFF!important ;">
                   <p> We will pay you comission for each remittance that you or your customer do. We will also provide
