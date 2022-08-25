@@ -66,5 +66,9 @@ class HomeController extends Controller
     public function terms(){
         return view('terms');
     }
+    // reset password page 
+    public function reset(){
+        return view('reset');
+    }
 
 }

@@ -35,6 +35,7 @@ Route::get('/login',[HomeController::class,'login']);
 Route::get('/register',[HomeController::class,'register']);
 Route::get('/privacy',[HomeController::class,'privacy']);
 Route::get('/terms',[HomeController::class,'terms']);
+Route::get('/reset',[HomeController::class,'reset']);
 
 //Auth::routes(['verify' => true]);
 

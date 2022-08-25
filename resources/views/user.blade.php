@@ -44,7 +44,7 @@
                                     </label>
                                 </div>
                                 <div class="text-end" style="margin-top: -24px;">
-                                    <a href="#" style="font-family: 'Poppins';
+                                    <a href="{{url('/reset')}}" style="font-family: 'Poppins';
                                         font-weight: 600;
                                         font-size: 14px;
                                       color: black;">forgot password?</a>

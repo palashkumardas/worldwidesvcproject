@@ -11,11 +11,11 @@
           <div class="container">
               <div class="text-center">
                   <h2>Our Services</h2>
-                  <h6><span><img class="img-fluid" style="margin-top:-5% ;" src="frontend/assets/img/c.png"
+                  <h6><span><img class="img-fluid" style="margin-top:-5% ;" src="{{asset('frontend/assets/img/c.png')}}"
                               alt=""></span>How we make your <br>
                       business to have a <br>
                       Digital Transformation<span><img class="img-fluid ps-1" style="margin-top:-3% ;"
-                              src="frontend/assets/img/d.png" alt=""></span></h6>
+                              src="{{asset('frontend/assets/img/d.png')}}" alt=""></span></h6>
               </div>
               <div class="services_card">
                   <p>We provide you all the tools and facilites to start or to grow your money transfer busniess. If
@@ -39,7 +39,7 @@
                   <div class="col-lg-3 col-12">
                       <div class=" service_img_card   web-card_one  m-0  ">
                           <div>
-                              <img  src="frontend/assets/img/services/Your Logo Design 1.png" alt="">
+                              <img  src="{{asset('frontend/assets/img/services/Your Logo Design 1.png')}}" alt="">
                           </div>
                           <div class="p-4">
                               <h6>Dashboard</h6>
@@ -50,13 +50,13 @@
                   </div>
                   <!-- -------=====----------- -->
                   <div class="col-md-1 d-none d-lg-block">
-                      <img class="d-block m-auto dash_img" src="frontend/assets/img/Vector 1.png" alt="">
+                      <img class="d-block m-auto dash_img" src="{{asset('frontend/assets/img/Vector 1.png')}}" alt="">
                   </div>
                   <!-- --------======---------- -->
                   <div class="col-lg-8 col-12 ">
                               <div class=" service_img_card  web-card_two d-flex flex-column flex-md-row ">
                                   <div class="service-width_img">
-                                      <img  class="d-block m-auto" src="frontend/assets/img/Laptop.png"  alt="...">
+                                      <img  class="d-block m-auto" src="{{asset('frontend/assets/img/Laptop.png')}}"  alt="...">
                                   </div>
                                   <div class="p-4 service-width">
                                       <p
@@ -71,7 +71,7 @@
                               <!-- ----------=======----- -->
                               <div class="service_img_card  web-card_two d-flex flex-column flex-md-row card_margin">
                                   <div class="service-width_img">
-                                      <img class="d-block m-auto" src="frontend/assets/img/Mobile-Set3.png" >
+                                      <img class="d-block m-auto" src="{{asset('frontend/assets/img/Mobile-Set3.png')}}" >
                                   </div>
                                   <div class="p-4 service-width">
                                       <p
@@ -86,7 +86,7 @@
                               <!-- --------============----- -->
                               <div class="service_img_card web-card_two  d-flex flex-column flex-md-row">
                                   <div class="service-width_img">
-                                      <img class="d-block m-auto" src="frontend/assets/img/Shop.png"  alt="..."
+                                      <img class="d-block m-auto" src="{{asset('frontend/assets/img/Shop.png')}}"  alt="..."
                                           >
                                   </div>
                                   <div class="p-4 service-width">
@@ -110,9 +110,9 @@
           <div class="container">
               <div class="text-center">
                   <h6 class="support_title"><span><img class="img-fluid" style="margin-top:-3.5% ;"
-                              src="frontend/assets/img/a.png" alt=""></span> How we gonna pay you <br> and give
+                              src="{{asset('frontend/assets/img/a.png')}}" alt=""></span> How we gonna pay you <br> and give
                       you <br> Support for that <span><img class="img-fluid" style="margin-top:-1.5% ;"
-                              src="frontend/assets/img/b.png" alt=""></span></h6>
+                              src="{{asset('frontend/assets/img/b.png')}}" alt=""></span></h6>
               </div>
               <div class="services_card" style="background:#C4EBFF!important ;">
                   <p> We will pay you comission for each remittance that you or your customer do. We will also provide

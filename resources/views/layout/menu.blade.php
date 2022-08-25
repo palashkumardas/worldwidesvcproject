@@ -11,7 +11,7 @@
               <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                   <li class="nav-item">
-                    <a class="nav-link active" href="{{url('/')}}">Home </a>
+                    <a class="nav-link " href="{{url('/')}}">Home </a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="{{url('/about')}}">About Us</a>
@@ -22,7 +22,7 @@
                   <li class="nav-item">
                     <a class="nav-link" href="{{url('/contact')}}">Contact Us</a>
                   </li>
-                  <a class="nav-link join" href="{{url('/user')}}">Join Us</a>
+                  <a class="nav-link join" href="{{url('/login')}}">Join Us</a>
                 </ul>
               </div>
             </div>

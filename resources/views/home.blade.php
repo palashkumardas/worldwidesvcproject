@@ -65,8 +65,8 @@
               <!-- --------============------------- -->
               <div class="row gx-2 gy-5 align-items-center justify-content-center">
                 <div class="col-md-6 col-12 order-2 order-md-1">
-                  <h2>Gain more insight into how people use your</h2>
-                  <p class="about_section_content">With our integrated CRM, project management, collaboration and invoicing capabilities, you can manage your business in one secure platform.</p>
+                  <h2>Grow your business through digital transformation</h2>
+                  <p class="about_section_content">We are offering money transfer services that will enable you to serve customers locally and internationally.</p>
                 </div>
                 <div class="col-md-6 col-12 order-1 order-md-2">
                   <div class="play_img">
@@ -80,36 +80,36 @@
                 <div class="col-lg-4 col-md-6 col-12">
                   <p class='badge ms-3'>1</p>
                   <h6>Measure your performance</h6>
-                  <p>Stay connected with your team and make quick decisions wherever you are.</p>
+                  <p>Do you want to start your own money transfer business? Do you want to grow your business exponentially through digital transformation? Then look no further. Worldwide Services is the answer for you.</p>
                 </div>
                 <div class="col-lg-4 col-md-6 col-12">
                   <p class='badge ms-3'>2</p>
                   <h6>Custom analytics</h6>
-                  <p>Get a complete sales dashboard in the cloud. See activity, revenue and social metrics all in one place. </p>
+                  <p>We are offering money transfer services that will enable you to serve customers locally and internationally. Our state-of-the-art technology will let you carry out business transactions smoothly and hassle-free.</p>
                 </div>
                 <!-- -------==========------------ -->
                 <div class="col-lg-4 col-md-6 col-12">
                   <p class='badge ms-3'>3</p>
                   <h6>Team Management</h6>
-                  <p>Our calendar lets you know what is happening with customer and projects so you</p>
+                  <p>We will provide you with a highly secure digital transformation package – an interactive website, a functional and efficient mobile app for online customers, and an Agent Portal Shop for face-to-face and local customers. </p>
                 </div>
                 <!-- -------==========------------ -->
                 <div class="col-lg-4 col-md-6 col-12">
                   <p class='badge ms-3'>4</p>
                   <h6>Build your website</h6>
-                  <p>A tool that lets you build a dream website even if you know nothing about web design or programming.</p>
+                  <p>Unlike other money transfer companies, your customers are entirely your own. Once they use your service and are satisfied with it, they will be your customers for life. </p>
                 </div>
                 <!-- -------==========------------ -->
                 <div class="col-lg-4 col-md-6 col-12">
                   <p class='badge ms-3'>5</p>
                   <h6>Connect multiple apps</h6>
-                  <p>The first business platform to bring together all of your products from one place.</p>
+                  <p>Customer satisfaction is our utmost priority. Whether they want to physically visit the shop or do it online in the comfort of their own homes, we will make it possible for them.</p>
                 </div>
                 <!-- -------==========------------ -->
                 <div class="col-lg-4 col-md-6 col-12">
                   <p class='badge ms-3'>6</p>
                   <h6>Easy setup</h6>
-                  <p>End to End Business Platform, Sales Management, Marketing Automation, Help Desk</p>
+                  <p>So what are you waiting for? Contact us today, become our agent, and grab this exceptional opportunity to expand your business!</p>
                 </div>
               </div>
             </div>
